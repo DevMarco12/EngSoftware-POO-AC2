@@ -1,0 +1,7 @@
+C:\Users\T-Gamer\source\repos\AC2 EngSoftware POO\obj\Debug\AC2 EngSoftware POO.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\AC2 EngSoftware POO\bin\Debug\AC2 EngSoftware POO.exe.config
+C:\Users\T-Gamer\source\repos\AC2 EngSoftware POO\bin\Debug\AC2 EngSoftware POO.exe
+C:\Users\T-Gamer\source\repos\AC2 EngSoftware POO\bin\Debug\AC2 EngSoftware POO.pdb
+C:\Users\T-Gamer\source\repos\AC2 EngSoftware POO\obj\Debug\AC2 EngSoftware POO.exe
+C:\Users\T-Gamer\source\repos\AC2 EngSoftware POO\obj\Debug\AC2 EngSoftware POO.pdb
+C:\Users\T-Gamer\source\repos\AC2 EngSoftware POO\obj\Debug\AC2 EngSoftware POO.csprojAssemblyReference.cache
